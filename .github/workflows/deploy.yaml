@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - develop  # developブランチにpushされたとき実行
-#こんな感じ
+#こんな感じだよ
 
 
 jobs:
